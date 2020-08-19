@@ -1,0 +1,4 @@
+tail -200f /data/smartcity/log/bdxchgshr/xchgmgr/exception/xchgmgr_exception.log
+
+tail -200f /data/smartcity/log/bdxchgshr/xchgmgr/bussiness/xchgmgr_bussiness.log
+

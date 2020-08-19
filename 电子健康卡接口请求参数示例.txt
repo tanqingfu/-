@@ -1,0 +1,76 @@
+1、发卡同步接口
+
+{
+	"header": {
+		"frontCompanyId": "TXZWSJB.APP",
+		"frontCompanyPas": "349c5fa56a264563b76f4693c8343390",
+		"funCode": "A010001",
+		"hospitalId": "3304830000",
+		"sendTime": "2020-08-10 11:33:11",
+		"transId": "22baf9606a95402da2101025d907542a"
+	},
+	"data": {
+		"A010001": {
+			"klx": "3",
+			"gfbb": "V1.1",
+			"fksj": "2019-07-09",
+			"kh": "",
+			"aqm": "",
+			"fkxlh": "",
+			"yycsdm": "330483",
+			"xpxlh": "",
+			"yhkh": "",
+			"jkkzt": "1",
+			"issuingMode": "2",
+			"bankCode": "",
+			"isRealName": "1",
+			"terminalType": "1",
+			"qrType": "1",
+			"xm": "王凌云",
+			"xb": "2",
+			"mzdm": "01",
+			"csrq": "1980-12-02",
+			"sfzhm": "33042519801202052X",
+			"zjlx": "01",
+			"zjhm": "33042519801202052X",
+			"jkdah": "",
+			"jzkkh": "",
+			"xnhkh": "",
+			"fyzhdm": "20",
+			"xldm": "20",
+			"zydm": "0",
+			"dzlb": 1,
+			"dzsf": "浙江省",
+			"dzs": "嘉兴市",
+			"dzqx": "桐乡市",
+			"dzxz": "梧桐街道",
+			"dzc": "凤鸣社区",
+			"brdh": "13819044156",
+			"ylfyzffs": "01",
+			"citizenship": "156",
+			"birthPlace": "桐乡",
+			"domicile": "浙江省嘉兴市桐乡市梧桐街道凤鸣社区",
+			"userSign": "1"
+		}
+	}
+}
+
+3、静态二维码下载
+{
+	"header": {
+		"frontCompanyId": "TXZWSJB.APP",
+		"frontCompanyPas": "349c5fa56a264563b76f4693c8343390",
+		"funCode": "A010003",
+		"hospitalId": "3304830000",
+		"sendTime": "2020-08-10 14:37:11",
+		"transId": "22baf9606a95402da2101025d907542a"
+	},
+    "data": {
+		"A010003": {
+			"xm": "王凌云",
+			"zjlx": "01",
+			"zjhm": "33042519801202052X"
+		}
+	}
+	
+}
